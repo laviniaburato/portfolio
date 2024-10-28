@@ -1,0 +1,37 @@
+.orcamento{
+    background-color:rgb(125, 158, 156);
+    margin-top: -40%;
+    max-width: 300px;
+    margin-left: 60%;
+    padding: 30px;
+    text-align: left;
+    border-radius: 15px;
+    position: absolute;
+}
+
+body{
+    background-color: rgb(35, 70, 70);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(56, 105, 103);
+    background: 125, 158, 156;
+    padding: 10px 0;
+    position:relative;
+    bottom:0;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.info{
+    color: rgb(255, 255, 255);
+    background-color: rgb(56, 105, 103);
+    background: 125, 158, 156;
+    padding: 10px 0;
+    position:relative;
+    bottom:0;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

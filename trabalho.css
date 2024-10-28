@@ -1,0 +1,22 @@
+.galeria{
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+
+body{
+    background-color: rgb(35, 70, 70);
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(56, 105, 103);
+    background: 125, 158, 156;
+    padding: 10px 0;
+    position:relative;
+    bottom:0;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
